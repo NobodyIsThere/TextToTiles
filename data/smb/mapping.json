@@ -1,0 +1,16 @@
+{
+    "tile_size" : 16,
+    "tiles" : {
+        "X" : "ground.png",
+        "S" : "breakable.png",
+        "-" : "background.png",
+        "?" : "question_mark_box.png",
+        "Q" : "question_mark_box.png",
+        "E" : "enemy.png",
+        "<" : "pipe_top_left.png",
+        ">" : "pipe_top_right.png",
+        "[" : "pipe_left.png",
+        "]" : "pipe_right.png",
+        "o" : "coin.png"
+    }
+}
