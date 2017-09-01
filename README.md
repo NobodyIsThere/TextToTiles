@@ -2,7 +2,8 @@ TextToTiles
 ===========
 Simple program to turn a text-based tile map into an image. You can use this to,
 for example, visualise Mario levels in the format used in
-[TheVGLC](https://github.com/TheVGLC/TheVGLC).
+[TheVGLC](https://github.com/TheVGLC/TheVGLC), or visualise levels created in
+[VGDL](https://github.com/EssexUniversityMCTS/gvgai/wiki/Level-Description-File).
 
 Usage:
 ```
